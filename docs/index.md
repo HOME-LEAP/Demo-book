@@ -1,7 +1,7 @@
 --- 
 title: "A Little Demo Book"
 author: "Jane Doe"
-# date: "2025-10-26"
+# date: "2025-10-28"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib, packages.bib]
